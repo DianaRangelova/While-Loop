@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\bin\Debug\net6.0\P07-Number-Processor.exe
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\bin\Debug\net6.0\P07-Number-Processor.deps.json
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\bin\Debug\net6.0\P07-Number-Processor.runtimeconfig.json
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\bin\Debug\net6.0\P07-Number-Processor.dll
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\bin\Debug\net6.0\P07-Number-Processor.pdb
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\obj\Debug\net6.0\P07-Number-Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\obj\Debug\net6.0\P07-Number-Processor.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\obj\Debug\net6.0\P07-Number-Processor.AssemblyInfo.cs
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\obj\Debug\net6.0\P07-Number-Processor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\obj\Debug\net6.0\P07-Number-Processor.dll
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\obj\Debug\net6.0\refint\P07-Number-Processor.dll
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\obj\Debug\net6.0\P07-Number-Processor.pdb
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\obj\Debug\net6.0\P07-Number-Processor.genruntimeconfig.cache
+C:\Users\PC\source\repos\While-Loop\P07-Number-Processor\obj\Debug\net6.0\ref\P07-Number-Processor.dll

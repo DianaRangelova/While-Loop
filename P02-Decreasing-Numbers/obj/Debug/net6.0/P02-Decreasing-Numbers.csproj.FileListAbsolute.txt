@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\bin\Debug\net6.0\P02-Decreasing-Numbers.exe
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\bin\Debug\net6.0\P02-Decreasing-Numbers.deps.json
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\bin\Debug\net6.0\P02-Decreasing-Numbers.runtimeconfig.json
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\bin\Debug\net6.0\P02-Decreasing-Numbers.dll
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\bin\Debug\net6.0\P02-Decreasing-Numbers.pdb
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\obj\Debug\net6.0\P02-Decreasing-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\obj\Debug\net6.0\P02-Decreasing-Numbers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\obj\Debug\net6.0\P02-Decreasing-Numbers.AssemblyInfo.cs
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\obj\Debug\net6.0\P02-Decreasing-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\obj\Debug\net6.0\P02-Decreasing-Numbers.dll
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\obj\Debug\net6.0\refint\P02-Decreasing-Numbers.dll
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\obj\Debug\net6.0\P02-Decreasing-Numbers.pdb
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\obj\Debug\net6.0\P02-Decreasing-Numbers.genruntimeconfig.cache
+C:\Users\PC\source\repos\While-Loop\P02-Decreasing-Numbers\obj\Debug\net6.0\ref\P02-Decreasing-Numbers.dll
